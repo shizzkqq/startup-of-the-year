@@ -1,0 +1,48 @@
+html { 
+	width: 100%;
+	height: 100%;
+	font-family: 'Source Code Pro', monospace;
+  	background: url(https://wallpapercave.com/wp/wp5481878.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	text-transform: uppercase;
+}
+
+h1{
+	font-size: 3rem;
+}
+
+hr {
+	border-color: #595891;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+.buffer{
+	height: 10rem;
+}
+
+.btn {
+	font-weight: 50;
+	border-radius: 300px;
+	text-transform: uppercase;
+	align-content: center;
+}
+
+.btn-primary {
+	background-color: #6363a2;
+	border-color:  #6363a2;
+}
+
+.btn-primary:hover {
+	background-color: #595891;
+	border-color:  #595891;
+	border-width: 4px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+	color: whitesmoke;
+}
